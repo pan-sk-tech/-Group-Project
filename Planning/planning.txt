@@ -1,1 +1,13 @@
+Project: University Clinic Appointment System
 
+Problem:
+
+Many students struggle to quickly schedule appointments for medical needs.
+
+Solution:
+
+The university clinic appointment system provides a platform where students can book appointments and view doctors online.
+
+Impact:
+
+The platform alleviates the hassle of appointment scheduling for students, enabling them to access medical care more quickly and promptly.
