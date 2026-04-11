@@ -1,0 +1,22 @@
+User Stories
+Student User Stories
+As a student, I want to register an account so that I can access the clinic booking system.
+As a student, I want to log in so that I can manage my appointment bookings.
+As a student, I want to view available clinic slots so that I can choose a suitable appointment time.
+As a student, I want to book an appointment so that I can receive medical attention without waiting in a long queue.
+As a student, I want to cancel an appointment so that unused slots can be released for others.
+As a student, I want to view my booking status so that I know whether my appointment is confirmed.
+As a student, I want to review my appointment history so that I can keep track of my clinic visits.
+
+Clinic Staff User Stories
+As clinic staff, I want to log in so that I can manage appointment operations securely.
+As clinic staff, I want to create available appointment slots so that students can make bookings.
+As clinic staff, I want to update or remove slots so that schedule changes can be managed properly.
+As clinic staff, I want to view daily bookings so that I can coordinate clinic operations efficiently.
+As clinic staff, I want to confirm or reschedule appointments so that booking conflicts can be handled properly.
+As clinic staff, I want to update appointment status so that records remain accurate.
+
+Administrator User Stories
+As an administrator, I want to log in so that I can manage the system securely.
+As an administrator, I want to manage user accounts so that only valid users can access the system.
+As an administrator, I want to review appointment records so that the system remains organised and reliable.
