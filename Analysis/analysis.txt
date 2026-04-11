@@ -1,19 +1,55 @@
 System Actors:
 - Student
-- Teacher
-- Parent
+- Clinic Staff
+- Administrator
 
 Functional Requirements:
-- Students can view timetable
-- Students can check progress bar
-- Student can view results 
-- Students can attend quiz
-- Teachers can create tutor profiles
-- Teachers can manage availability
-- Parent can view student info
+Student Requirements
+01 Students can register an account.
+02 Students can log in securely.
+03 Students can view available appointment slots by date and time.
+04 Students can book an appointment.
+05 Students can reschedule an existing appointment.
+06 Students can cancel an appointment.
+07 Students can view booking status.
+08 Students can view appointment history.
+
+Clinic Staff Requirements
+01 Clinic staff can log in securely.
+02 Clinic staff can view dashboard summaries of bookings and slot status.
+03 Clinic staff can create doctor appointment slots.
+04 Clinic staff can edit doctor appointment slots.
+05 Clinic staff can delete doctor appointment slots.
+06 Clinic staff can view student bookings.
+07 Clinic staff can confirm appointments.
+08 Clinic staff can reschedule appointments.
+09 Clinic staff can cancel appointments.
+10 Clinic staff can view daily and weekly clinic schedules.
+11 Clinic staff can monitor patient booking records.
+
+Administrator Requirements
+01 Administrators can log in securely.
+02 Administrators can view overall system statistics.
+03 Administrators can manage student accounts.
+04 Administrators can manage clinic staff accounts.
+05 Administrators can add, edit, deactivate, or view user accounts.
+06 Administrators can view appointment records.
+07 Administrators can monitor system activity logs.
 
 Non-Functional Requirements:
-- Easy to use interface
-- Fast response time
-- Secure login system
--
+01 Usability
+The system shall provide a clear and easy-to-use interface for students, clinic staff, and administrators.
+02 Security
+The system shall support secure login and protect user account information.
+03 Responsiveness
+The interface shall work properly on both desktop and mobile devices.
+04 Performance
+Main pages such as login, slot viewing, and booking pages shall load within a reasonable time under normal conditions.
+05 Availability Visibility
+Appointment slot status and booking status shall be displayed clearly to reduce confusion.
+06 Consistency
+The interface shall use consistent colours, layout, buttons, and navigation across all pages.
+07 Reliability
+Booking records, appointment status, and user data shall remain accurate and organised.
+08 Scalability
+The system should support multiple users accessing appointment services during normal university usage periods.
