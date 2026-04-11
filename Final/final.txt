@@ -1,0 +1,15 @@
+This university clinic appointment system prototype aims to demonstrate key user interactions and system workflows for three target user roles: students, clinic staff, and administrators.
+It focuses on core appointment management processes, enabling users to experience how to create, view, update, and monitor appointments within a streamlined web environment.
+
+For students
+The prototype includes pages for registration, login, viewing available appointment slots, making appointments, managing existing appointments, and viewing appointment history.
+
+For clinic staff
+The prototype provides interfaces for managing available doctor slots, confirming or updating student appointments, and viewing clinic schedules and patient appointment records.
+
+For administrators
+The prototype includes dashboard pages for managing user accounts, monitoring appointment records, and viewing overall system activity.
+
+The prototype employs a clear and user-friendly interface design, ensuring each role can easily access the functions relevant to their responsibilities. 
+While it is a simplified version of the complete system, it effectively demonstrates the intended structure, navigation flow,
+and key operational features of the proposed appointment platform.
